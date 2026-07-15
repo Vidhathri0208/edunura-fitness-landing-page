@@ -1,0 +1,8 @@
+{
+  "name": "Remix: EduNura Fitness",
+  "description": "Landing page for the offline EduNura Fitness Workshop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
